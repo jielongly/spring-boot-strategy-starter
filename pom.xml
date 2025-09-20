@@ -5,7 +5,7 @@
                              https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.jl</groupId>
+    <groupId>io.github.jielongly</groupId>
     <artifactId>spring-boot-strategy-starter</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
